@@ -1,0 +1,33 @@
+h2{
+    color:crimson;
+    background-color: antiquewhite;
+}
+
+p{
+    background-color:papayawhip;
+}
+
+div{
+    background-color: salmon;
+}
+
+span{
+    background-color: aliceblue;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h4{
+    color: cadetblue;
+}
+
+.firstdiv {
+    background-color: red;
+
+}
+
+#myp{
+    color: cornflowerblue;
+}
